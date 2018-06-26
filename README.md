@@ -1,0 +1,1 @@
+type _help to list all commands available. This is currently a work in progress, I plan to add more commands and optimize the image command.
