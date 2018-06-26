@@ -83,4 +83,4 @@ async def on_message(message):
         elif (option == "rock" and num == 3) or (option == "paper" and num == 1) or (option == "scissors" and num == 2):
             await client.send_message(message.channel, "I rolled " + cpu + ". It's obvious I would win.")
 
-client.run("NDAwODkyOTgxMzI3OTUzOTIw.DTiSDA.oBDl_KK2Q68wjqPvV0QTdoOUASo")
+client.run("Token")
